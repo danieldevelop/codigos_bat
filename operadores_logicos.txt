@@ -1,0 +1,7 @@
+(LSS)< Menor que
+(GTR)> Mayor que
+(LEQ)<= Menor o Igual
+(GEQ)>= Mayor o Igual
+== Igual
+!= Distinto
+
